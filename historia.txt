@@ -1,6 +1,5 @@
 hola mundo me llamo Mauricio
 
-tengo 33 años y naci en La Paz 
+tengo 33 años y naci en La Paz bolivia
 
 estoy aprendiendo git
-212321321
