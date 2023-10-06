@@ -11,5 +11,9 @@ cocino bien
 me gusta el futbol y tennis
 
 master 1
+<<<<<<< HEAD
 
 master 2
+=======
+experimento 1
+>>>>>>> 61036f4 (Exp 1)
